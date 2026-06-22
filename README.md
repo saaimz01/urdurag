@@ -1,5 +1,4 @@
-# IR Project — Roman Urdu RAG System
-# CS4051 Information Retrieval
+# RAG for Roman Urdu Querying on Urdu Articles
 
 ## Project Overview
 A Retrieval-Augmented Generation (RAG) system for Roman Urdu question answering.
