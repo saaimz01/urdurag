@@ -1,0 +1,9 @@
+sentence-transformers
+faiss-cpu
+urduhack
+requests
+beautifulsoup4
+pandas
+numpy
+openai
+tqdm

@@ -1,0 +1,372 @@
+[
+  {
+    "query_id": "q_001",
+    "query": "Glen Maxwell ne kis match mein 89 گینڈوں par century banayi?",
+    "relevant_chunk_id": "article_0000_chunk_000"
+  },
+  {
+    "query_id": "q_002",
+    "query": "راجشاہی نے میچ میں کتنے رنز اسکور کیے؟",
+    "relevant_chunk_id": "article_0000_chunk_001"
+  },
+  {
+    "query_id": "q_003",
+    "query": "اسلام آباد کی ٹیم نے کتنے رنز بنائے اور کس سے کامیابی حاصل کی؟",
+    "relevant_chunk_id": "article_0000_chunk_002"
+  },
+  {
+    "query_id": "q_004",
+    "query": "فریدی نے 1996 میں کس ٹیم کے خلاف سو رنز بنائے تھے؟",
+    "relevant_chunk_id": "article_0001_chunk_000"
+  },
+  {
+    "query_id": "q_005",
+    "query": "فریدی کی مقبولیت کے بارے میں کیا کہا گیا ہے؟",
+    "relevant_chunk_id": "article_0001_chunk_001"
+  },
+  {
+    "query_id": "q_006",
+    "query": "فریدی کی مقبولیت کا مقابلہ کس سے کیا جا سکتا ہے؟",
+    "relevant_chunk_id": "article_0001_chunk_002"
+  },
+  {
+    "query_id": "q_007",
+    "query": "فریدی کی مقبولیت میں اضافہ کب ہوا؟",
+    "relevant_chunk_id": "article_0001_chunk_003"
+  },
+  {
+    "query_id": "q_008",
+    "query": "فریدی نے انڈیا کے خلاف کتنے رنز بنائے تھے؟",
+    "relevant_chunk_id": "article_0001_chunk_004"
+  },
+  {
+    "query_id": "q_009",
+    "query": "فریدی نے میچز میں کتنی وکٹیں لی ہیں؟",
+    "relevant_chunk_id": "article_0001_chunk_005"
+  },
+  {
+    "query_id": "q_010",
+    "query": "نیوزی لینڈ کے کھلاڑیوں نے پشاور سانحہ کے متاثرین کو کیا امداد فراہم کی؟",
+    "relevant_chunk_id": "article_0002_chunk_000"
+  },
+  {
+    "query_id": "q_011",
+    "query": "کیویز ٹیم نے متاثرین کے لیے کتنی امداد دی؟",
+    "relevant_chunk_id": "article_0002_chunk_001"
+  },
+  {
+    "query_id": "q_012",
+    "query": "شاہد فریدی نے ورلڈ کپ کے بعد ون ڈے کرکٹ سے کب ریٹائرمنٹ کا فیصلہ کیا؟",
+    "relevant_chunk_id": "article_0003_chunk_000"
+  },
+  {
+    "query_id": "q_013",
+    "query": "ورلڈکپ سے قبل مکمل فٹ ہونے کا فیصلہ کس نے کیا؟",
+    "relevant_chunk_id": "article_0003_chunk_001"
+  },
+  {
+    "query_id": "q_014",
+    "query": "دھونی نے کب ٹیسٹ کرکٹ سے ریٹائرمنٹ لی؟",
+    "relevant_chunk_id": "article_0004_chunk_000"
+  },
+  {
+    "query_id": "q_015",
+    "query": "عامر خان نے پشاور کے متاثرین سے ملاقات کا کب اعلان کیا؟",
+    "relevant_chunk_id": "article_0005_chunk_000"
+  },
+  {
+    "query_id": "q_016",
+    "query": "عامر خان نے باکسنگ اکیڈمی کب بنائی؟",
+    "relevant_chunk_id": "article_0005_chunk_001"
+  },
+  {
+    "query_id": "q_017",
+    "query": "پراگیان اوجھا پر پابندی کیوں عائد کی گئی؟",
+    "relevant_chunk_id": "article_0006_chunk_000"
+  },
+  {
+    "query_id": "q_018",
+    "query": "معین خان کو کس عہدے سے برطرف کیا گیا؟",
+    "relevant_chunk_id": "article_0007_chunk_000"
+  },
+  {
+    "query_id": "q_019",
+    "query": "معین خان نے دو عہدے ایک ساتھ رکھنے کے بارے میں کیا کہا؟",
+    "relevant_chunk_id": "article_0007_chunk_001"
+  },
+  {
+    "query_id": "q_020",
+    "query": "پراگیان اوجھا پر پابندی کیوں عائد کی گئی؟",
+    "relevant_chunk_id": "article_0008_chunk_000"
+  },
+  {
+    "query_id": "q_021",
+    "query": "سعید اجمل نے ورلڈ کپ سے کیوں دستبرداری اختیار کی؟",
+    "relevant_chunk_id": "article_0009_chunk_000"
+  },
+  {
+    "query_id": "q_022",
+    "query": "سعید اجمل کو آئی سی سی کی جانب سے کب معطل کیا گیا؟",
+    "relevant_chunk_id": "article_0009_chunk_001"
+  },
+  {
+    "query_id": "q_023",
+    "query": "سعید اجمل کو ورلڈ کپ میں شامل کیا جائے گا؟",
+    "relevant_chunk_id": "article_0009_chunk_002"
+  },
+  {
+    "query_id": "q_024",
+    "query": "حفیظ کے بالنگ ایکشن پر کس نے کام کیا؟",
+    "relevant_chunk_id": "article_0009_chunk_003"
+  },
+  {
+    "query_id": "q_025",
+    "query": "عمر گل ورلڈ کپ میں کیوں شامل نہیں ہو رہے؟",
+    "relevant_chunk_id": "article_0010_chunk_000"
+  },
+  {
+    "query_id": "q_026",
+    "query": "عمر گل کی انجری کا کیا حال ہے؟",
+    "relevant_chunk_id": "article_0010_chunk_001"
+  },
+  {
+    "query_id": "q_027",
+    "query": "جنید خان کی فٹنس کیسی ہے؟",
+    "relevant_chunk_id": "article_0010_chunk_002"
+  },
+  {
+    "query_id": "q_028",
+    "query": "عمر گل ورلڈ کپ میں کیوں نہیں کھیلیں گے؟",
+    "relevant_chunk_id": "article_0010_chunk_003"
+  },
+  {
+    "query_id": "q_029",
+    "query": "سعید اجمل کی ورلڈ کپ میں شمولیت کا فیصلہ کس کے ہاتھ میں ہے؟",
+    "relevant_chunk_id": "article_0011_chunk_000"
+  },
+  {
+    "query_id": "q_030",
+    "query": "شہریار خان ne قائداعظم ٹرافی کے فائنل mein kya kaha?",
+    "relevant_chunk_id": "article_0011_chunk_001"
+  },
+  {
+    "query_id": "q_031",
+    "query": "احمد شہزاد نے پاکستان ٹیم کی ورلڈ کپ میں کامیابی کے بارے میں کیا کہا؟",
+    "relevant_chunk_id": "article_0012_chunk_000"
+  },
+  {
+    "query_id": "q_032",
+    "query": "احمد کی حالیہ کارکردگی نے پاکستانی ٹیم میں کیا تبدیلی کی؟",
+    "relevant_chunk_id": "article_0012_chunk_001"
+  },
+  {
+    "query_id": "q_033",
+    "query": "احمد شہزاد نے اپنے ٹیسٹ ڈیبیو کب کیا؟",
+    "relevant_chunk_id": "article_0012_chunk_002"
+  },
+  {
+    "query_id": "q_034",
+    "query": "احمد شہزاد نے اسٹریلیا میں کرکٹ کھیلنے کے بارے میں کیا کہا؟",
+    "relevant_chunk_id": "article_0012_chunk_003"
+  },
+  {
+    "query_id": "q_035",
+    "query": "احمد شہزاد نے جارحیت کی کیا تعریف کی ہے؟",
+    "relevant_chunk_id": "article_0012_chunk_004"
+  },
+  {
+    "query_id": "q_036",
+    "query": "احمد شہزاد نے کب عالمی سطح پر پاکستان کی نمائندگی کی؟",
+    "relevant_chunk_id": "article_0012_chunk_005"
+  },
+  {
+    "query_id": "q_037",
+    "query": "نوجوان بلے باز کے مستقبل کے عزائم کیا ہیں؟",
+    "relevant_chunk_id": "article_0012_chunk_006"
+  },
+  {
+    "query_id": "q_038",
+    "query": "Shahid Afridi ne kab aur kyun ODI cricket se retire hone ka faisla kiya?",
+    "relevant_chunk_id": "article_0013_chunk_000"
+  },
+  {
+    "query_id": "q_039",
+    "query": "شاہد افریدی نے 50 اوور فارمیٹ میں کتنے رنز اور وکٹس حاصل کرنے کا ارادہ کیا ہے؟",
+    "relevant_chunk_id": "article_0013_chunk_001"
+  },
+  {
+    "query_id": "q_040",
+    "query": "افریدی کی ریٹائرمنٹ ke baare mein kya kaha gaya hai?",
+    "relevant_chunk_id": "article_0013_chunk_002"
+  },
+  {
+    "query_id": "q_041",
+    "query": "محسن حسن خان نے پاکستان کی قومی ٹیم کی ورلڈ کپ تیاری پر کیا کہا؟",
+    "relevant_chunk_id": "article_0014_chunk_000"
+  },
+  {
+    "query_id": "q_042",
+    "query": "ٹیم کی شکست کی ذمے داری کس پر ہے؟",
+    "relevant_chunk_id": "article_0014_chunk_001"
+  },
+  {
+    "query_id": "q_043",
+    "query": "محسن خان نے ورلڈ کپ کی تیاری کے بارے میں کیا کہا؟",
+    "relevant_chunk_id": "article_0014_chunk_002"
+  },
+  {
+    "query_id": "q_044",
+    "query": "محمد حفیظ اور سعید اجمل کی غیر موجودگی میں کن نئے اسپنرز کو آزمایا گیا؟",
+    "relevant_chunk_id": "article_0014_chunk_003"
+  },
+  {
+    "query_id": "q_045",
+    "query": "ذوالفقار بابر اور یاسر شاہ کو ایک روزہ سیریز میں کیوں نہیں آزمایا گیا؟",
+    "relevant_chunk_id": "article_0014_chunk_004"
+  },
+  {
+    "query_id": "q_046",
+    "query": "کیوی ٹیم نے تقریب تقسیم انعامات میں کیا کہا؟",
+    "relevant_chunk_id": "article_0014_chunk_005"
+  },
+  {
+    "query_id": "q_047",
+    "query": "عامر خان نے سانحہ پشاور کے متاثرین کی مدد کے لیے کیا اعلان کیا؟",
+    "relevant_chunk_id": "article_0015_chunk_000"
+  },
+  {
+    "query_id": "q_048",
+    "query": "عامر خان نے سانحہ پشاور کے متاثرین کے ساتھ یکجہتی کے لیے کیا اعلان کیا؟",
+    "relevant_chunk_id": "article_0015_chunk_001"
+  },
+  {
+    "query_id": "q_049",
+    "query": "سرفراز کو مصباح نے کس چیز کا گیم چینجر قرار دیا؟",
+    "relevant_chunk_id": "article_0016_chunk_000"
+  },
+  {
+    "query_id": "q_050",
+    "query": "شاہد افریدی نے کس میچ میں ٹیم قیادت کی؟",
+    "relevant_chunk_id": "article_0016_chunk_001"
+  },
+  {
+    "query_id": "q_051",
+    "query": "سرفراز احمد کی بلے بازی کے بارے میں مصباح کا کیا کہنا تھا؟",
+    "relevant_chunk_id": "article_0016_chunk_002"
+  },
+  {
+    "query_id": "q_052",
+    "query": "سرفراز احمد کی بیٹنگ کی تعریف کس نے کی؟",
+    "relevant_chunk_id": "article_0016_chunk_003"
+  },
+  {
+    "query_id": "q_053",
+    "query": "مصباح نے سرفراز کو گیم چینجر کیوں قرار دیا؟",
+    "relevant_chunk_id": "article_0016_chunk_004"
+  },
+  {
+    "query_id": "q_054",
+    "query": "سرفراز کو مصباح نے کیوں گیم چینجر کہا؟",
+    "relevant_chunk_id": "article_0016_chunk_005"
+  },
+  {
+    "query_id": "q_055",
+    "query": "محمد حفیظ اور سعید اجمل کا بالنگ ایکشن ٹیسٹ کب ہوگا؟",
+    "relevant_chunk_id": "article_0017_chunk_000"
+  },
+  {
+    "query_id": "q_056",
+    "query": "کبڈی کی عالمی تنظیم نے ہندوستان کو چیمپئن کیوں نہیں مانا؟",
+    "relevant_chunk_id": "article_0018_chunk_000"
+  },
+  {
+    "query_id": "q_057",
+    "query": "کبڈی کے ایونٹ میں نیوٹرل امپائر کیوں نہیں استعمال ہوئے؟",
+    "relevant_chunk_id": "article_0018_chunk_001"
+  },
+  {
+    "query_id": "q_058",
+    "query": "عالمی کپ میں کپتان کون ہوگا؟",
+    "relevant_chunk_id": "article_0019_chunk_000"
+  },
+  {
+    "query_id": "q_059",
+    "query": "شاہد فریدی aur doosre khilaadiyon ko kyun شوکاز نوٹس mila?",
+    "relevant_chunk_id": "article_0020_chunk_000"
+  },
+  {
+    "query_id": "q_060",
+    "query": "یونس خان نے پشاور کے بچوں کے لئے کیا سامان تقسیم کرنے کا فیصلہ کیا؟",
+    "relevant_chunk_id": "article_0021_chunk_000"
+  },
+  {
+    "query_id": "q_061",
+    "query": "سچن ٹنڈولکر کو ورلڈ کپ 2015 کا سفیر کب مقرر کیا گیا؟",
+    "relevant_chunk_id": "article_0022_chunk_000"
+  },
+  {
+    "query_id": "q_062",
+    "query": "سچن ٹنڈولکر نے کتنے ٹیسٹ میچز کھیلے؟",
+    "relevant_chunk_id": "article_0022_chunk_001"
+  },
+  {
+    "query_id": "q_063",
+    "query": "پاکستان ko نیوزی لینڈ ke haath kis score se shikast hui?",
+    "relevant_chunk_id": "article_0023_chunk_000"
+  },
+  {
+    "query_id": "q_064",
+    "query": "پاکستان کو امارات میں کتنی ون ڈے سیریز میں شکست ہوئی؟",
+    "relevant_chunk_id": "article_0023_chunk_001"
+  },
+  {
+    "query_id": "q_065",
+    "query": "شاہد افریدی کا فارم کیسا ہے؟",
+    "relevant_chunk_id": "article_0023_chunk_002"
+  },
+  {
+    "query_id": "q_066",
+    "query": "کمال خان ka cricket dekhne ka tareeqa kya hai?",
+    "relevant_chunk_id": "article_0024_chunk_000"
+  },
+  {
+    "query_id": "q_067",
+    "query": "ابوظہبی میں پشتونوں کے لیے تفریح کا ذریعہ کیا ہے؟",
+    "relevant_chunk_id": "article_0024_chunk_001"
+  },
+  {
+    "query_id": "q_068",
+    "query": "شاہد خان فریدی نے تیسرے ون ڈے میں کتنے رنز بنائے؟",
+    "relevant_chunk_id": "article_0024_chunk_002"
+  },
+  {
+    "query_id": "q_069",
+    "query": "شاہد فریدی نے تیسرے ون ڈے میں کتنے رنز بنائے؟",
+    "relevant_chunk_id": "article_0024_chunk_003"
+  },
+  {
+    "query_id": "q_070",
+    "query": "Shahid Afridi ne kis tarah se Pashto logon ki mohabbat ka izhaar kiya?",
+    "relevant_chunk_id": "article_0024_chunk_004"
+  },
+  {
+    "query_id": "q_071",
+    "query": "محمد علی کو کس بیماری کی وجہ سے ہسپتال منتقل کیا گیا؟",
+    "relevant_chunk_id": "article_0025_chunk_000"
+  },
+  {
+    "query_id": "q_072",
+    "query": "شاہد افریدی کب ایک روزہ کرکٹ سے ریٹائر ہونے کا اعلان کیا؟",
+    "relevant_chunk_id": "article_0026_chunk_000"
+  },
+  {
+    "query_id": "q_073",
+    "query": "افریدی کا کرکٹ کی تاریخ میں کیا کردار ہے؟",
+    "relevant_chunk_id": "article_0026_chunk_001"
+  },
+  {
+    "query_id": "q_074",
+    "query": "افریدی نے 2011 کے ورلڈ کپ میں کپتان کے طور پر کیا کردار ادا کیا؟",
+    "relevant_chunk_id": "article_0026_chunk_002"
+  }
+]
